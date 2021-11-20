@@ -35,7 +35,6 @@ out/
 
 ### VS Code ###
 .vscode/
-/README.md
 /settings.gradle
 /build.gradle
 /gradlew
