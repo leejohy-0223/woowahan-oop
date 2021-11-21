@@ -1,5 +1,6 @@
 package com.woowaoop.food.domain.generic.money;
 
+import javax.persistence.Entity;
 import java.math.BigDecimal;
 import java.util.Collection;
 import java.util.Objects;
